@@ -5,7 +5,7 @@ const dbuser = "<your database server username>";
 const dbpw = "<your database server password>";
 const db = "<your database name>";
 const global_app_id = '<your onesignal app id>';
-const global_rest_id = '<your onesignal rest id';
+const global_rest_id = '<your onesignal rest id>';
 
 //send onesignal notification to mobile user
 function sendMessage($email, $message, $arrayfull){
